@@ -1,0 +1,4 @@
+﻿  三维图形变换.cpp
+C:\Users\86133\Desktop\desktop\图形学\三维图形变换\三维图形变换.cpp(19,26): error C2664: “void glutInit(int *,char **)”: 无法将参数 2 从“char ***”转换为“char **”
+C:\Users\86133\Desktop\desktop\图形学\三维图形变换\三维图形变换.cpp(19,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\VS2022\Vs2022\VC\Tools\MSVC\14.31.31103\include\gl\glut.h(393,22): message : 参见“glutInit”的声明
